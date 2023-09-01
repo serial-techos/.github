@@ -13,7 +13,7 @@ At Serial-Techos, we aim to empower developers and engineers, helping them navig
 ## 🤝 How to Join Us
 Interested in becoming a part of our community? It's simple:
 
-1. **Contact us**: Join our [Discussion Forum](https://github.com/orgs/serial-techos/discussions) and dive into engaging tech discussions.
+1. **Contact us**: contact one of our [people](https://github.com/orgs/serial-techos/people) or join our [Discussion Forum](https://github.com/orgs/serial-techos/discussions) and dive into engaging tech discussions.
 
 Let's upskill and change the world together!
 
