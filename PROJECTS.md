@@ -1,5 +1,5 @@
-| Project                  | Description                                          | Stack | State |
-|--------------------------|------------------------------------------------------|-----------|---------------|
-| GoCod             | A solution to help you start a dev project quickly and well | Python,Javascript, React, FastAP |   OnGoing            |
-| paul              | A solution to help you find a job in a relevant way. Thanks PAUL Emploi | Python,Javascript, React, FastAPI  |       OnGoing        |
-| sql-with-docker   | A tool to run sql queries in a easy way using docker        | SQL, Docker |    Waiting for you           |
+| Project           | Description                                                      | Stack                           | State           | Needs Developers | Project Wiki Link |
+|-------------------|------------------------------------------------------------------|---------------------------------|-----------------|-------------------|-------------------|
+| GoCod             | A solution to help you start a dev project quickly and well     | Python, Javascript, React, FastAPI | OnGoing         | Yes                | [Wiki](https://github.com/serial-techos/GoCod/wiki) |
+| paul              | A solution to help you find a job in a relevant way. Thanks PAUL Emploi | Python, Javascript, React, FastAPI | OnGoing         | Yes               | [Wiki](https://github.com/serial-techos/paul/wiki) |
+| sql-with-docker   | A tool to run SQL queries in an easy way using Docker           | SQL, Docker                     | Pause | Yes                | [Wiki](https://github.com/serial-techos/sql-with-docker/wiki) |
